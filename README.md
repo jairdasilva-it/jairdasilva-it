@@ -67,7 +67,7 @@ The portfolio currently includes:
 ### 🖥️ Operating Systems
 
 - Windows Server 2025
-- Windows 11
+- Windows 10 pro
 
 ### 🌐 Networking
 
