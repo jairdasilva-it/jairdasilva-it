@@ -80,8 +80,9 @@ The portfolio currently includes:
 
 ### ⚙️ System Administration
 
-- IIS
+- IIS (Internet Information Services)
 - PowerShell
+- Remote Desktop (RDP)
 
 ---
 
