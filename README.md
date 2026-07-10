@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Jair Da Silva - Azure Administrator Portfolio" width="100%">
+  [Jair Da Silva - Azure Administrator Portfolio](https://github.com/jairdasilva-it/Azure-Portfolio)
 </p>
 
 <h1 align="center">👋 Hi, I'm Jair Da Silva</h1>
